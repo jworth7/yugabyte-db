@@ -1,6 +1,0 @@
-test: setup
-test: create_drop_table
-test: create_drop_index
-
-test: colocated_setup
-test: create_colocated_table

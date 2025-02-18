@@ -1,3 +1,0 @@
-#contrib/yb_ycql_utils/yb_schedule
-
-test: yb_ycql_utils_basic
